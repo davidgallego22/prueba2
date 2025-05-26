@@ -1,2 +1,2 @@
 # prueba2
-provando GitHub
+probando GitHub
